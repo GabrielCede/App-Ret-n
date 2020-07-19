@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\AppReten\bin\Debug\netcoreapp2.1\AppReten.deps.json
+C:\Users\Usuario\source\repos\AppReten\bin\Debug\netcoreapp2.1\AppReten.runtimeconfig.json
+C:\Users\Usuario\source\repos\AppReten\bin\Debug\netcoreapp2.1\AppReten.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\AppReten\bin\Debug\netcoreapp2.1\AppReten.dll
+C:\Users\Usuario\source\repos\AppReten\bin\Debug\netcoreapp2.1\AppReten.pdb
+C:\Users\Usuario\source\repos\AppReten\obj\Debug\netcoreapp2.1\AppReten.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\AppReten\obj\Debug\netcoreapp2.1\AppReten.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\AppReten\obj\Debug\netcoreapp2.1\AppReten.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\AppReten\obj\Debug\netcoreapp2.1\AppReten.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\AppReten\obj\Debug\netcoreapp2.1\AppReten.dll
+C:\Users\Usuario\source\repos\AppReten\obj\Debug\netcoreapp2.1\AppReten.pdb
