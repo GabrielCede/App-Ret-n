@@ -1,0 +1,13 @@
+C:\Users\ecker\source\repos\AppRetenSolucion\AppRetenProyecto\bin\Debug\netcoreapp3.1\AppRetenProyecto.exe
+C:\Users\ecker\source\repos\AppRetenSolucion\AppRetenProyecto\bin\Debug\netcoreapp3.1\AppRetenProyecto.deps.json
+C:\Users\ecker\source\repos\AppRetenSolucion\AppRetenProyecto\bin\Debug\netcoreapp3.1\AppRetenProyecto.runtimeconfig.json
+C:\Users\ecker\source\repos\AppRetenSolucion\AppRetenProyecto\bin\Debug\netcoreapp3.1\AppRetenProyecto.runtimeconfig.dev.json
+C:\Users\ecker\source\repos\AppRetenSolucion\AppRetenProyecto\bin\Debug\netcoreapp3.1\AppRetenProyecto.dll
+C:\Users\ecker\source\repos\AppRetenSolucion\AppRetenProyecto\bin\Debug\netcoreapp3.1\AppRetenProyecto.pdb
+C:\Users\ecker\source\repos\AppRetenSolucion\AppRetenProyecto\obj\Debug\netcoreapp3.1\AppRetenProyecto.csprojAssemblyReference.cache
+C:\Users\ecker\source\repos\AppRetenSolucion\AppRetenProyecto\obj\Debug\netcoreapp3.1\AppRetenProyecto.AssemblyInfoInputs.cache
+C:\Users\ecker\source\repos\AppRetenSolucion\AppRetenProyecto\obj\Debug\netcoreapp3.1\AppRetenProyecto.AssemblyInfo.cs
+C:\Users\ecker\source\repos\AppRetenSolucion\AppRetenProyecto\obj\Debug\netcoreapp3.1\AppRetenProyecto.csproj.CoreCompileInputs.cache
+C:\Users\ecker\source\repos\AppRetenSolucion\AppRetenProyecto\obj\Debug\netcoreapp3.1\AppRetenProyecto.dll
+C:\Users\ecker\source\repos\AppRetenSolucion\AppRetenProyecto\obj\Debug\netcoreapp3.1\AppRetenProyecto.pdb
+C:\Users\ecker\source\repos\AppRetenSolucion\AppRetenProyecto\obj\Debug\netcoreapp3.1\AppRetenProyecto.genruntimeconfig.cache
