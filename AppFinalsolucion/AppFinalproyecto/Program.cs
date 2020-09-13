@@ -41,7 +41,7 @@ namespace AppFinalproyecto
             List<Proceso> listaCausa = new List<Proceso>
         {
             new Proceso{ numCausa=1 , motivo= "Falta de licencia de conducir" , gravedad= "Media" , monto= 200 },
-            new Proceso{ numCausa=1 , motivo= "Falta de espejos retrovisores" , gravedad= "baja" , monto= 100 },
+            new Proceso{ numCausa=1 , motivo= "Falta de espejos retrovisores" , gravedad= "Baja" , monto= 100 },
             new Proceso{ numCausa=2 , motivo= "Falla total de luces"          , gravedad="Baja"   , monto= 100 },
             new Proceso{ numCausa=3 , motivo= "Alcoholemia Positiva"          , gravedad = "Alta" , monto= 500 },
         };
