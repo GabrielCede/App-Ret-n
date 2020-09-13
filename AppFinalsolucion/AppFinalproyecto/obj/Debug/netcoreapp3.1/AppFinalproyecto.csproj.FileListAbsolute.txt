@@ -1,0 +1,13 @@
+C:\Users\ecker\source\repos\AppFinalsolucion\AppFinalproyecto\bin\Debug\netcoreapp3.1\AppFinalproyecto.exe
+C:\Users\ecker\source\repos\AppFinalsolucion\AppFinalproyecto\bin\Debug\netcoreapp3.1\AppFinalproyecto.deps.json
+C:\Users\ecker\source\repos\AppFinalsolucion\AppFinalproyecto\bin\Debug\netcoreapp3.1\AppFinalproyecto.runtimeconfig.json
+C:\Users\ecker\source\repos\AppFinalsolucion\AppFinalproyecto\bin\Debug\netcoreapp3.1\AppFinalproyecto.runtimeconfig.dev.json
+C:\Users\ecker\source\repos\AppFinalsolucion\AppFinalproyecto\bin\Debug\netcoreapp3.1\AppFinalproyecto.dll
+C:\Users\ecker\source\repos\AppFinalsolucion\AppFinalproyecto\bin\Debug\netcoreapp3.1\AppFinalproyecto.pdb
+C:\Users\ecker\source\repos\AppFinalsolucion\AppFinalproyecto\obj\Debug\netcoreapp3.1\AppFinalproyecto.csprojAssemblyReference.cache
+C:\Users\ecker\source\repos\AppFinalsolucion\AppFinalproyecto\obj\Debug\netcoreapp3.1\AppFinalproyecto.AssemblyInfoInputs.cache
+C:\Users\ecker\source\repos\AppFinalsolucion\AppFinalproyecto\obj\Debug\netcoreapp3.1\AppFinalproyecto.AssemblyInfo.cs
+C:\Users\ecker\source\repos\AppFinalsolucion\AppFinalproyecto\obj\Debug\netcoreapp3.1\AppFinalproyecto.csproj.CoreCompileInputs.cache
+C:\Users\ecker\source\repos\AppFinalsolucion\AppFinalproyecto\obj\Debug\netcoreapp3.1\AppFinalproyecto.dll
+C:\Users\ecker\source\repos\AppFinalsolucion\AppFinalproyecto\obj\Debug\netcoreapp3.1\AppFinalproyecto.pdb
+C:\Users\ecker\source\repos\AppFinalsolucion\AppFinalproyecto\obj\Debug\netcoreapp3.1\AppFinalproyecto.genruntimeconfig.cache
